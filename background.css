@@ -1,0 +1,50 @@
+#content{
+	
+    background:url("https://previews.123rf.com/images/nexusplexus/nexusplexus1502/nexusplexus150200403/36355221-young-woman-in-suit-sitting-on-pile-of-old-books.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-height:100%;
+    font-family:Kaushan Script;
+    background-position:center;
+    height:100vh;
+    text-align:right;
+    padding-top:10%;
+    font-size: 30px;
+}
+
+html{
+	height:100%;
+}
+
+h1{
+	margin-right: 20%;	
+	font-size:3em;
+	color:black;
+	
+}
+
+h2{
+	margin-right:25%;
+	color:white;
+	font-weight: 30%;
+	font-size: 80%;
+}
+h3{
+	margin-right:20%;
+	color:#1d7099;
+	font-size: 40px;
+	font-weight: 40%;
+}
+
+h4{
+	margin-right: 25%;
+	color: #d42284;
+}
+button{
+	margin-right:39%;
+	color: #2c3e50;
+		
+}
+.navbar-inverse{
+	background:#2c3e50;
+}
